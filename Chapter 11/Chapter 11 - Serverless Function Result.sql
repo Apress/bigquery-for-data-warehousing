@@ -1,0 +1,4 @@
+SELECT SKU, COUNT(*), SUM(Price) FROM `sales`
+WHERE SKU = '1001' -- the green tea SKU
+AND Date BETWEEN '2020-06-27' AND '2020-06-28'
+GROUP BY SKU

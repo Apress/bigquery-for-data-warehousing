@@ -1,0 +1,17 @@
+[
+    {
+      "mode": "NULLABLE",
+      "name": "Author",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Title",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "LexicalDiversity",
+      "type": "FLOAT"
+    }
+]

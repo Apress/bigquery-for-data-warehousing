@@ -1,0 +1,24 @@
+  "schema": {
+    "fields": [
+      {
+        "mode": "NULLABLE",
+        "name": "string_field_0",
+        "type": "STRING"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "string_field_1",
+        "type": "STRING"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "int64_field_2",
+        "type": "INTEGER"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "date_field_3",
+        "type": "DATE"
+      }
+    ]
+}

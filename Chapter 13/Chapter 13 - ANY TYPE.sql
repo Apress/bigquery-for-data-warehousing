@@ -1,0 +1,1 @@
+CREATE OR REPLACE FUNCTION wbq.AddFive(input ANY TYPE) AS (input+5);

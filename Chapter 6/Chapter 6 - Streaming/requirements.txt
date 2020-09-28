@@ -1,0 +1,6 @@
+Flask==1.1.2
+google-api-core==1.17.0
+google-api-python-client==1.9.1
+google-bigquery==0.14
+google-cloud==0.34.0
+google-cloud-bigquery==1.24.0
